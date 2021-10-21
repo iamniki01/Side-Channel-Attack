@@ -1,11 +1,8 @@
 /*
 
-author: NIKHIL GOWDA S
-        RAKSHIT AS
+author: RAKSHIT AR
+	NIKHIL GOWDA S
         AHMED
-        AHMED
-        
-        CITED AS: ABOVE FOUR NAME WITH HOCHSCHULE HEIDELBERG 
 
 
 */
